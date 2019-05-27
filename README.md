@@ -5,7 +5,8 @@ The goal of the project is to provide documentation, tips & hints, and demonstra
 
 Tools used
 =====
-* Microsoft Visual Studio 2015 Community edition
+* Microsoft Visual Studio 2019 Community edition
+* Microsoft Visual Studio Code
 * [UnmanagedExports by Robert Giesecke](https://www.nuget.org/packages/UnmanagedExports) (NuGet package)
 
 Building
