@@ -13,6 +13,9 @@ Building
 ====
 * Open the solution in Visual Studio.
 * Make sure platform is not AnyCPU, because AnyCPU assemblies cannot export functions.
+* For Visual Studio 2019
+  * install Microsoft Build Tools 2015
+
 * Build the solution.
 
 Installing and running the demo plug-in
