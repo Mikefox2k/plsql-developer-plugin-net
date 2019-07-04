@@ -9,6 +9,10 @@ Tools used
 * Microsoft Visual Studio Code
 * [UnmanagedExports by Robert Giesecke](https://www.nuget.org/packages/UnmanagedExports) (NuGet package)
 
+PLSQLDevWrapper
+====
+* Used for working with x64 builds 
+
 Building
 ====
 * Open the solution in Visual Studio.
