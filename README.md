@@ -8,6 +8,7 @@ Tools used
 * Microsoft Visual Studio 2019 Community edition
 * Microsoft Visual Studio Code
 * [UnmanagedExports by Robert Giesecke](https://www.nuget.org/packages/UnmanagedExports) (NuGet package)
+  * [DllExports by 3F](https://github.com/3F/DllExport) is a good alternative
 
 PLSQLDevWrapper
 ====
